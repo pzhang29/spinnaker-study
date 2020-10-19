@@ -61,5 +61,3 @@ spec:
                         backend:
                             serviceName: peng-solo-microservice-service
                             servicePort: 30201
-
-
